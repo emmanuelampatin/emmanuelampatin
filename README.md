@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emmanuelampatin&label=Profile%20views&color=0e75b6&style=flat" alt="emmanuelampatin" /> </p>
 
-- 🌱 I’m currently learning **vue, vuetify , flutter**
+- 🌱 I’m currently learning **vue, vuetify , flutter , python , linux**
 
 - 📫 How to reach me **emmanuelampatin100@gmail.com**
 
